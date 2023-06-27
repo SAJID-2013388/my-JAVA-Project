@@ -1,0 +1,32 @@
+Total: 12 Classes
+
+Java Functionality:
+---------------------
+01. Menu
+02. Three Time Trial Admin & Password login 
+03. Add Employee in Employee List
+04. Show Employee from Employee List
+05. Search Employee by Id
+06. Show Maximum Salary Holder info
+07. Show Minimum Salary Holder info
+08. Filtering on Employee's Salary
+09. Total Employee
+10. Employee Bonus Calculator
+11. Exit Point
+12. UML Diagram
+13. Flow Diagram
+
+Java Feature:
+---------------
+01. Class & Object
+02. Inheritence
+03. Encapsulation
+04. Composition
+05. Abstaction
+06. Interface
+07. File Operation
+08. ArrayList-Collection
+09. Exception Handeling
+10. Lambda Expression(Stream)
+
+				
